@@ -33,6 +33,11 @@ Assign your mapper file name to mapper variable in the client file
 Assign your reducer file name to reducer variable in the client file
 run the client file, then the master file and worker file on three different terminals
 
+Contributions-
+Ananya Adiga
+Amisha Mathew
+Apoorva Naronikar
+
 
 
 
